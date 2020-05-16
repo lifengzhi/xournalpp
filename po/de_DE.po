@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-16 09:39\n"
+"PO-Revision-Date: 2020-05-16 09:54\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1882,7 +1882,7 @@ msgstr "Neue Seitenvorlage konfigurieren"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
-msgstr "Den Hintergrund der aktuellen Seite kopieren"
+msgstr "Aktuellen Seitenhintergrund kopieren"
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
