@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-13 07:34\n"
+"PO-Revision-Date: 2020-05-16 09:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1750,7 +1750,7 @@ msgstr "<i>Nutze Gesten um im Dokument zu zoomen.</i>"
 
 #: ../ui/settings.glade:1192
 msgid "<i>With some setup, pen strokes have artifacts at their beginning. This can be avoided by ignoring the first few events/stroke-points when the pen touches the screen.</i>"
-msgstr ""
+msgstr "<i>Unter Umständen kann der Anfang eines Strichs Artifakte aufweisen. Dies kann umgangen werden, indem die ersten Berührungspunkte des Stifts mit dem Bildschirm ignoriert werden.</i>"
 
 #: ../ui/settings.glade:1517
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
