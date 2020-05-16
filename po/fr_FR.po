@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-15 15:46\n"
+"PO-Revision-Date: 2020-05-16 17:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1881,7 +1881,7 @@ msgstr "Configurer le nouveau modèle de page"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
-msgstr ""
+msgstr "Copier l'arrière-plan de la page actuelle à la place"
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
@@ -2568,7 +2568,7 @@ msgstr "Essayez d'abord de sélectionner l'objet ; si rien n'est sélectionné, 
 
 #: ../ui/pageTemplate.glade:273
 msgid "Use the current page size instead of the page size above."
-msgstr ""
+msgstr "Utilisez la taille de la page courante au lieu de la taille de la page au-dessus."
 
 #: ../ui/settings.glade:3367
 msgid "Usually 0 or 1"
@@ -2876,7 +2876,7 @@ msgstr "activé,"
 
 #: ../ui/settings.glade:1246
 msgid "events"
-msgstr ""
+msgstr "événements"
 
 #: ../ui/settings.glade:291
 msgid "every"
