@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-13 07:33\n"
+"POT-Creation-Date: 2020-05-17 19:27+0000\n"
+"PO-Revision-Date: 2020-05-17 19:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1631,7 +1631,7 @@ msgstr "<b>Herramientas predeterminadas</b>"
 msgid "<b>Default</b>"
 msgstr "<b>Predeterminado</b>"
 
-#: ../ui/exportSettings.glade:90
+#: ../ui/exportSettings.glade:93
 msgid "<b>Document export settings</b>\n"
 "Select pages to export"
 msgstr "<b>Configuración de exportación de documento</b>\n"
@@ -1677,7 +1677,7 @@ msgstr "<i>Los cambios surtirán efecto solo en las grabaciones y reproducciones
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
 msgstr "<i>Define qué herramientas serán seleccionadas si pulsa un botón del ratón. Después de liberar el botón, la herramienta usada será seleccionada.</i>"
 
-#: ../ui/exportSettings.glade:209
+#: ../ui/exportSettings.glade:210
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
 msgstr "<i>Ejemplo:</i> 1-3 o 1,3,5-7 etc."
 
@@ -1777,7 +1777,7 @@ msgstr "Añadir espacio horizontal adicional de"
 msgid "Add additional vertical space of"
 msgstr "Añadir espacio vertical adicional de"
 
-#: ../ui/exportSettings.glade:142
+#: ../ui/exportSettings.glade:144
 msgid "All pages"
 msgstr "Todas las páginas"
 
@@ -1891,7 +1891,7 @@ msgstr ""
 msgid "Copy the background of the current page instead of using the background set above."
 msgstr ""
 
-#: ../ui/exportSettings.glade:158
+#: ../ui/exportSettings.glade:160
 msgid "Current page"
 msgstr "Página actual"
 
@@ -2303,7 +2303,7 @@ msgstr "Dispositivo de salida"
 msgid "P_revious annotated Page"
 msgstr "Página anotada anterior"
 
-#: ../ui/exportSettings.glade:175
+#: ../ui/exportSettings.glade:176
 msgid "Pages:"
 msgstr "Páginas:"
 
@@ -2377,7 +2377,7 @@ msgstr "RELEASE_IDENTIFIER"
 msgid "Radius"
 msgstr ""
 
-#: ../ui/exportSettings.glade:127
+#: ../ui/exportSettings.glade:130
 msgid "Range"
 msgstr "Intervalo"
 
@@ -2393,7 +2393,7 @@ msgstr "Grabar/detener"
 msgid "Recording Quality"
 msgstr "Calidad de grabación"
 
-#: ../ui/exportSettings.glade:112
+#: ../ui/exportSettings.glade:115
 msgid "Resolution"
 msgstr "Resolución"
 
@@ -2866,7 +2866,7 @@ msgstr "co_rrector"
 msgid "change"
 msgstr "cambiar"
 
-#: ../ui/exportSettings.glade:223
+#: ../ui/exportSettings.glade:224
 msgid "dpi"
 msgstr "ppp"
 
