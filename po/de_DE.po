@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-16 09:54\n"
+"POT-Creation-Date: 2020-05-17 19:27+0000\n"
+"PO-Revision-Date: 2020-05-17 19:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1631,7 +1631,7 @@ msgstr "<b>Standard Werkzeuge</b>"
 msgid "<b>Default</b>"
 msgstr "<b>Standard</b>"
 
-#: ../ui/exportSettings.glade:90
+#: ../ui/exportSettings.glade:93
 msgid "<b>Document export settings</b>\n"
 "Select pages to export"
 msgstr "<b>Dokumentenexport Einstellungen</b>\n"
@@ -1678,7 +1678,7 @@ msgstr "<i>Veränderungen wirken sich nur auf neue Aufnahmen und Wiedergaben aus
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
 msgstr "<i>Wählen Sie welches Werkzeug ausgewählt wird, wenn Sie eine Maustaste drücken. Beim Loslassen wird wieder das vorherige Werkzeug gewählt.</i>"
 
-#: ../ui/exportSettings.glade:209
+#: ../ui/exportSettings.glade:210
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
 msgstr "<i>Beispiel:</i> 1-3 oder 1,3,5-7 etc."
 
@@ -1778,7 +1778,7 @@ msgstr "Füge horizontalen Platz von"
 msgid "Add additional vertical space of"
 msgstr "Füge vertikalen Platz von"
 
-#: ../ui/exportSettings.glade:142
+#: ../ui/exportSettings.glade:144
 msgid "All pages"
 msgstr "Alle Seiten"
 
@@ -1892,7 +1892,7 @@ msgstr "Aktuelle Seitengröße kopieren"
 msgid "Copy the background of the current page instead of using the background set above."
 msgstr "Hintergrund der aktuellen Seite kopieren anstatt den obigen Hintergrund zu verwenden."
 
-#: ../ui/exportSettings.glade:158
+#: ../ui/exportSettings.glade:160
 msgid "Current page"
 msgstr "Aktuelle Seite"
 
@@ -2304,7 +2304,7 @@ msgstr "Ausgabegerät"
 msgid "P_revious annotated Page"
 msgstr "Vorherige beschriftete Seite"
 
-#: ../ui/exportSettings.glade:175
+#: ../ui/exportSettings.glade:176
 msgid "Pages:"
 msgstr "Seiten:"
 
@@ -2378,7 +2378,7 @@ msgstr "RELEASE_IDENTIFIER"
 msgid "Radius"
 msgstr "Radius"
 
-#: ../ui/exportSettings.glade:127
+#: ../ui/exportSettings.glade:130
 msgid "Range"
 msgstr "Bereich"
 
@@ -2394,7 +2394,7 @@ msgstr "Aufnehmen / Stop"
 msgid "Recording Quality"
 msgstr "Aufnahmequalität"
 
-#: ../ui/exportSettings.glade:112
+#: ../ui/exportSettings.glade:115
 msgid "Resolution"
 msgstr "Auflösung"
 
@@ -2867,7 +2867,7 @@ msgstr "_weiß übermalen"
 msgid "change"
 msgstr "ändern"
 
-#: ../ui/exportSettings.glade:223
+#: ../ui/exportSettings.glade:224
 msgid "dpi"
 msgstr "dpi"
 
