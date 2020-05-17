@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-13 07:33\n"
+"POT-Creation-Date: 2020-05-17 19:27+0000\n"
+"PO-Revision-Date: 2020-05-17 19:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1630,7 +1630,7 @@ msgstr "<b>Инструменты по умолчанию</b>"
 msgid "<b>Default</b>"
 msgstr "<b>По умолчанию</b>"
 
-#: ../ui/exportSettings.glade:90
+#: ../ui/exportSettings.glade:93
 msgid "<b>Document export settings</b>\n"
 "Select pages to export"
 msgstr "<b>Настройки экспорта документа</b>\n"
@@ -1676,7 +1676,7 @@ msgstr "<i>Изменения вступят в силу только для н�
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
 msgstr "<i>Задайте, какие инструменты будут выбраны, когда вы нажимаете кнопку мыши. После того, как вы отпустите кнопку, будет выбран ранее выбранный инструмент.</i>"
 
-#: ../ui/exportSettings.glade:209
+#: ../ui/exportSettings.glade:210
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
 msgstr "<i>Пример:</i> 1-3 или 1,3,5-7 и т. д."
 
@@ -1776,7 +1776,7 @@ msgstr "Добавить дополнительный горизонтальны
 msgid "Add additional vertical space of"
 msgstr "Добавить дополнительный вертикальный отступ в"
 
-#: ../ui/exportSettings.glade:142
+#: ../ui/exportSettings.glade:144
 msgid "All pages"
 msgstr "Все страницы"
 
@@ -1890,7 +1890,7 @@ msgstr "Скопировать текущий размер страницы"
 msgid "Copy the background of the current page instead of using the background set above."
 msgstr "Скопировать фон текущей страницы вместо использования фона, установленного выше."
 
-#: ../ui/exportSettings.glade:158
+#: ../ui/exportSettings.glade:160
 msgid "Current page"
 msgstr "Текущая страница"
 
@@ -2302,7 +2302,7 @@ msgstr "Устройство вывода"
 msgid "P_revious annotated Page"
 msgstr "_Предыдущая аннотированная страница"
 
-#: ../ui/exportSettings.glade:175
+#: ../ui/exportSettings.glade:176
 msgid "Pages:"
 msgstr "Страницы:"
 
@@ -2376,7 +2376,7 @@ msgstr "RELEASE_IDENTIFIER"
 msgid "Radius"
 msgstr "Радиус"
 
-#: ../ui/exportSettings.glade:127
+#: ../ui/exportSettings.glade:130
 msgid "Range"
 msgstr "Диапазон"
 
@@ -2392,7 +2392,7 @@ msgstr "Запись / Стоп"
 msgid "Recording Quality"
 msgstr "Качество записи"
 
-#: ../ui/exportSettings.glade:112
+#: ../ui/exportSettings.glade:115
 msgid "Resolution"
 msgstr "Разрешение"
 
@@ -2865,7 +2865,7 @@ msgstr "_забеливание"
 msgid "change"
 msgstr "Изменить"
 
-#: ../ui/exportSettings.glade:223
+#: ../ui/exportSettings.glade:224
 msgid "dpi"
 msgstr "dpi"
 
