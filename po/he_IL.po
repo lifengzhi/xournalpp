@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-17 19:36+0000\n"
-"PO-Revision-Date: 2020-05-17 19:48\n"
+"POT-Creation-Date: 2020-05-20 03:35+0000\n"
+"PO-Revision-Date: 2020-05-20 03:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -176,7 +176,7 @@ msgstr "תוכן"
 msgid "Copy"
 msgstr "העתק"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:28
+#: ../src/control/pagetype/PageTypeHandler.cpp:30
 msgid "Copy current"
 msgstr "העתק נוכחי"
 
@@ -593,7 +593,7 @@ msgstr "הסתר הכל"
 msgid "Highlighter"
 msgstr ""
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:30
+#: ../src/control/pagetype/PageTypeHandler.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:401
 msgid "Image"
 msgstr "תמונה"
@@ -629,6 +629,14 @@ msgstr "הכנס שכבה"
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:382
 msgid "Insert page"
 msgstr "הכנס דף"
+
+#: ../src/control/pagetype/PageTypeHandler.cpp:25
+msgid "Isometric Dotted"
+msgstr ""
+
+#: ../src/control/pagetype/PageTypeHandler.cpp:26
+msgid "Isometric Graph"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:308
 msgid "Jump to Page (first Page: 1)"
@@ -1271,7 +1279,7 @@ msgstr ""
 msgid "White"
 msgstr ""
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:29
+#: ../src/control/pagetype/PageTypeHandler.cpp:31
 msgid "With PDF background"
 msgstr ""
 
