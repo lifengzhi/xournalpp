@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-17 19:36+0000\n"
-"PO-Revision-Date: 2020-05-17 19:48\n"
+"POT-Creation-Date: 2020-05-20 03:35+0000\n"
+"PO-Revision-Date: 2020-05-20 03:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -183,7 +183,7 @@ msgstr "Περιεχόμενα"
 msgid "Copy"
 msgstr "Αντιγραφή"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:28
+#: ../src/control/pagetype/PageTypeHandler.cpp:30
 msgid "Copy current"
 msgstr "Αντιγραφή τρέχοντος"
 
@@ -611,7 +611,7 @@ msgstr "Aπόκρυψη όλων"
 msgid "Highlighter"
 msgstr "Υπογραμμισμός"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:30
+#: ../src/control/pagetype/PageTypeHandler.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:401
 msgid "Image"
 msgstr "Εικόνα"
@@ -647,6 +647,14 @@ msgstr "Εισαγωγή στρώσης"
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:382
 msgid "Insert page"
 msgstr "Εισαγωγή σελίδας"
+
+#: ../src/control/pagetype/PageTypeHandler.cpp:25
+msgid "Isometric Dotted"
+msgstr ""
+
+#: ../src/control/pagetype/PageTypeHandler.cpp:26
+msgid "Isometric Graph"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:308
 msgid "Jump to Page (first Page: 1)"
@@ -1295,7 +1303,7 @@ msgstr "Πολύ παχύ"
 msgid "White"
 msgstr "Λευκό"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:29
+#: ../src/control/pagetype/PageTypeHandler.cpp:31
 msgid "With PDF background"
 msgstr "Με φόντο PDF"
 
