@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-17 19:36+0000\n"
-"PO-Revision-Date: 2020-05-17 19:48\n"
+"POT-Creation-Date: 2020-05-20 03:35+0000\n"
+"PO-Revision-Date: 2020-05-20 03:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -183,7 +183,7 @@ msgstr "Obsah"
 msgid "Copy"
 msgstr "Kopírovat"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:28
+#: ../src/control/pagetype/PageTypeHandler.cpp:30
 msgid "Copy current"
 msgstr "Kopírovat aktuální"
 
@@ -610,7 +610,7 @@ msgstr "Skrýt vše"
 msgid "Highlighter"
 msgstr "Zvýrazňovač"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:30
+#: ../src/control/pagetype/PageTypeHandler.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:401
 msgid "Image"
 msgstr "Obrázek"
@@ -646,6 +646,14 @@ msgstr "Vložit vrstvu"
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:382
 msgid "Insert page"
 msgstr "Vložit stránku"
+
+#: ../src/control/pagetype/PageTypeHandler.cpp:25
+msgid "Isometric Dotted"
+msgstr ""
+
+#: ../src/control/pagetype/PageTypeHandler.cpp:26
+msgid "Isometric Graph"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:308
 msgid "Jump to Page (first Page: 1)"
@@ -1294,7 +1302,7 @@ msgstr "Velmi tlustá"
 msgid "White"
 msgstr "Bílá"
 
-#: ../src/control/pagetype/PageTypeHandler.cpp:29
+#: ../src/control/pagetype/PageTypeHandler.cpp:31
 msgid "With PDF background"
 msgstr "S PDF pozadím"
 
