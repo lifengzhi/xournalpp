@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-20 03:35+0000\n"
-"PO-Revision-Date: 2020-05-20 03:45\n"
+"POT-Creation-Date: 2020-05-21 11:30+0000\n"
+"PO-Revision-Date: 2020-05-21 11:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -15,13 +15,13 @@ msgstr ""
 "X-Crowdin-Language: nl\n"
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 
-#: ../src/control/XournalMain.cpp:555
+#: ../src/control/XournalMain.cpp:557
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
 "Er wordt nu geprobeerd op te starten zonder dit bestand."
 
-#: ../src/control/XournalMain.cpp:535
+#: ../src/control/XournalMain.cpp:537
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
@@ -40,7 +40,7 @@ msgstr "%F-Notitie-%H-%M"
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
 msgstr "<b>Geen apparaten aangetroffen. Dit lijkt niet de bedoeling - wil je een bugmelding opmaken?</b>"
 
-#: ../src/control/XournalMain.cpp:550
+#: ../src/control/XournalMain.cpp:552
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "<b>{1}</b></span>\n"
 "Could not find them at any location.\n"
@@ -708,7 +708,7 @@ msgstr "Werkbalk beheren"
 msgid "Medium"
 msgstr "Normaal"
 
-#: ../src/control/XournalMain.cpp:532
+#: ../src/control/XournalMain.cpp:534
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
@@ -1075,13 +1075,13 @@ msgstr "Alleen ongebruikte pagina's tonen (één ongebruikte pagina)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Alleen ongebruikte pagina's tonen ({1} ongebruikte pagina's)"
 
-#: ../src/control/XournalMain.cpp:381
+#: ../src/control/XournalMain.cpp:383
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Xournal++ kan slechts één bestand tegelijk openen.\n"
 "Andere bestanden worden genegeerd."
 
-#: ../src/control/XournalMain.cpp:393
+#: ../src/control/XournalMain.cpp:395
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Momenteel kan Xournal++ geen bestanden op afstand openen.\n"
@@ -1811,7 +1811,7 @@ msgstr "Audio-opname"
 msgid "Author: "
 msgstr "Auteur: "
 
-#: ../ui/about.glade:186
+#: ../ui/about.glade:211
 msgid "Authors:"
 msgstr "Auteurs:"
 
@@ -2105,7 +2105,7 @@ msgstr "Compensatie van eerste pagina "
 msgid "Fullscreen"
 msgstr "Beeldvullend"
 
-#: ../ui/about.glade:281
+#: ../ui/about.glade:306
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 of hoger"
 
@@ -2225,7 +2225,7 @@ msgstr "Indeling"
 msgid "Left / Right-Handed"
 msgstr "Links-/Rechtshandig"
 
-#: ../ui/about.glade:265
+#: ../ui/about.glade:290
 msgid "License"
 msgstr "Licentie"
 
@@ -2335,7 +2335,7 @@ msgstr "Papier_formaat"
 msgid "Paper b_ackground"
 msgstr "Papier_achtergrond"
 
-#: ../ui/about.glade:247
+#: ../ui/about.glade:272
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Deels gebaseerd op Xournal\n"
@@ -2602,13 +2602,17 @@ msgstr "Correctievloeistof"
 msgid "Width:"
 msgstr "Breedte:"
 
-#: ../ui/about.glade:232
+#: ../ui/about.glade:257
 msgid "With help from the community"
 msgstr "Met dank aan de gemeenschap"
 
 #: ../ui/settings.glade:1991
 msgid "Workaround"
 msgstr "Tussenoplossing"
+
+#: ../ui/about.glade:192
+msgid "X.X.X"
+msgstr ""
 
 #: ../ui/settings.glade:137
 msgid "Xournal++ Preferences"
@@ -2915,4 +2919,8 @@ msgstr "opslaan naar bestand"
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
 msgstr "erg d_ik"
+
+#: ../ui/about.glade:178
+msgid "with libgtk"
+msgstr ""
 
