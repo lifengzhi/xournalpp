@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-20 03:35+0000\n"
-"PO-Revision-Date: 2020-05-20 03:45\n"
+"POT-Creation-Date: 2020-05-21 11:30+0000\n"
+"PO-Revision-Date: 2020-05-21 11:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -15,13 +15,13 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 
-#: ../src/control/XournalMain.cpp:555
+#: ../src/control/XournalMain.cpp:557
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
 "Teď se pokusí spustit bez tohoto souboru."
 
-#: ../src/control/XournalMain.cpp:535
+#: ../src/control/XournalMain.cpp:537
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
@@ -40,7 +40,7 @@ msgstr "%F-Poznámka-%H-%M"
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
 msgstr "<b>Žádná zařízení nebyla nalezena. Zdá se to být špatně - možná můžeš nahlásit chybu?</b>"
 
-#: ../src/control/XournalMain.cpp:550
+#: ../src/control/XournalMain.cpp:552
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "<b>{1}</b></span>\n"
 "Could not find them at any location.\n"
@@ -707,7 +707,7 @@ msgstr "Spravovat lištu nástrojů"
 msgid "Medium"
 msgstr "Střední"
 
-#: ../src/control/XournalMain.cpp:532
+#: ../src/control/XournalMain.cpp:534
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
@@ -1074,13 +1074,13 @@ msgstr "Zobrazit pouze nevyužité stránky (jedna nevyužitá stránka)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Zobrazit pouze nevyužité stránky ({1} nevyužitých stránek)"
 
-#: ../src/control/XournalMain.cpp:381
+#: ../src/control/XournalMain.cpp:383
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Promiň, Xournal++ může otevřít pouze jeden soubor najednou.\n"
 "Ostatní jsou ignorovány."
 
-#: ../src/control/XournalMain.cpp:393
+#: ../src/control/XournalMain.cpp:395
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Promiň, Xournal++ momentálně nemůže otevřít vzdálené soubory.\n"
@@ -1809,7 +1809,7 @@ msgstr "Záznam zvuku"
 msgid "Author: "
 msgstr "Autor: "
 
-#: ../ui/about.glade:186
+#: ../ui/about.glade:211
 msgid "Authors:"
 msgstr "Autoři:"
 
@@ -2103,7 +2103,7 @@ msgstr "Posun první stránky "
 msgid "Fullscreen"
 msgstr "Celá obrazovka"
 
-#: ../ui/about.glade:281
+#: ../ui/about.glade:306
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 nebo novější"
 
@@ -2223,7 +2223,7 @@ msgstr "Rozložení"
 msgid "Left / Right-Handed"
 msgstr "Levo/pravo ruký"
 
-#: ../ui/about.glade:265
+#: ../ui/about.glade:290
 msgid "License"
 msgstr "Licence"
 
@@ -2333,7 +2333,7 @@ msgstr "_Formát papíru"
 msgid "Paper b_ackground"
 msgstr "Pozadí _papíru"
 
-#: ../ui/about.glade:247
+#: ../ui/about.glade:272
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Částečně založeno na Xournal\n"
@@ -2600,13 +2600,17 @@ msgstr "Bělení"
 msgid "Width:"
 msgstr "Šířka:"
 
-#: ../ui/about.glade:232
+#: ../ui/about.glade:257
 msgid "With help from the community"
 msgstr "S pomocí komunity"
 
 #: ../ui/settings.glade:1991
 msgid "Workaround"
 msgstr "Zástupné řešení"
+
+#: ../ui/about.glade:192
+msgid "X.X.X"
+msgstr ""
 
 #: ../ui/settings.glade:137
 msgid "Xournal++ Preferences"
@@ -2913,4 +2917,8 @@ msgstr "ulož do souboru"
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
 msgstr "vel_mi tlustá"
+
+#: ../ui/about.glade:178
+msgid "with libgtk"
+msgstr ""
 
